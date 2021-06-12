@@ -1,0 +1,17 @@
+{
+  "name": "ElectroCord",
+  "version": "1.0.0",
+  "description": "A discord client for when your normal discord isnt enough",
+  "main": "client.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "electron": "^13.1.2",
+    "electron-discordloginapi": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "FireyJS",
+  "license": "ISC"
+}
