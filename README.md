@@ -2,8 +2,10 @@
 Hi! This is a web-based client created by FireyJS(SharkNix).
 
 ## How to install
-Firstly, Go into releases and download the latest one
-Then, one the download is finished, Either:
+Firstly, Go [Here](https://github.com/sharknix/electrocord/releases/latest) and client the .zip file
+Then, go ahead and extract the files.
+
+Once download is finished, Either:
 1. Run the ``run.bat`` file
 or 2. Make a shortcut linking to the ``run.bat`` file
 
