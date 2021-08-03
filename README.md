@@ -1,5 +1,5 @@
-# ElectroCord
-Hi! This is a web-based client created by FireyJS(SharkNix).
+# ELECTROCORD IS DEPRECATED AND SHOULD NOT BE USED. PLEASE USE MY NEW CLIENT, [CustomCord](https://github.com/fireyjs/CustomCord)
+
 
 ## How to install
 Firstly, Go [Here](https://github.com/sharknix/electrocord/releases/latest) and client the .zip file.
